@@ -8,4 +8,6 @@ date: "2023-01-24"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown script to test pushing to github
+## **R Markdown script to test pushing to github**
+
+### This script is made to test out the features of github

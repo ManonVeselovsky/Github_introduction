@@ -13,3 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### This script is made to test out the features of github
 
 #### Making additional changes to test
+
+```{r, echo=FALSE}
+usethis::use_git()
+```

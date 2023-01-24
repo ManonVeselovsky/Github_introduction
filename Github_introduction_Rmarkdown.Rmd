@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ## **R Markdown script to test pushing to github**
 
 ### This script is made to test out the features of github
+
+#### Making additional changes to test commit + push
